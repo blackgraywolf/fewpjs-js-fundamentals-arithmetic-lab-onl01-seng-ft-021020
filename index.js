@@ -8,4 +8,4 @@ const random = Math.floor(Math.random() * 10) + 1;
 
 const mod = 9%5;
 
-const max = 20 
+const max = 20  
